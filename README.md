@@ -9,6 +9,8 @@ A modern Warp account management tool built with Tauri, Rust and Vue 3.
 基于 Tauri、Rust 和 Vue 3 构建的现代化 Warp 账户管理工具。
 
 </div>
+<img width="400" height="300" alt="8e06084d04e60a9366a03b47f4374dad" src="https://github.com/user-attachments/assets/3d1a6856-b460-4a59-97ac-ee79e160b676" />
+<img width="400" height="300" alt="6e5a66a1dc0a6d4cfa77f55feca9d0c6" src="https://github.com/user-attachments/assets/25e825c4-9325-44e9-99ce-60c16e96fb9f" />
 
 ---
 
